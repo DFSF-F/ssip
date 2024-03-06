@@ -1,0 +1,1 @@
+WORKING_DIRECTORY = r"D:\projects\file_manager"
