@@ -139,25 +139,3 @@ def main():
             break
         elif choice == '1':
             create_folder()
-        elif choice == '2':
-            delete_folder()
-        elif choice == '3':
-            move_to_folder()
-        elif choice == '4':
-            move_up()
-        elif choice == '5':
-            create_file()
-        elif choice == '6':
-            write_to_file()
-        elif choice == '7':
-            view_file()
-        elif choice == '8':
-            delete_file()
-        elif choice == '9':
-            copy_file()
-        elif choice == '10':
-            move_file()
-        elif choice == '11':
-            rename_file()
-        else:
-            print("Неверный выбор. Пожалуйста, вв
